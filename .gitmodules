@@ -1,0 +1,3 @@
+[submodule "iosproject"]
+	path = iosproject
+	url = https://github.com/rakeshgujari/ReactDemo.git
